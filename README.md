@@ -1,2 +1,2 @@
 # baruchalumn
-it is a website for baruch alumni
+Check Project Report.pdf for project development detail
